@@ -1,0 +1,20 @@
+{
+  "locale": "fr",
+  "items": [
+    {
+      "properties": {
+        "displayName": "collection",
+        "id": "WZbi01",
+        "description": null,
+        "longDescription": "<p>in Progress</p>\n",
+        "seoMetaInfo": {
+          "seoDescription": null,
+          "seoKeywords": null,
+          "seoTitle": null,
+          "seoUrlSlug": null
+        },
+        "active": true
+      }
+    }
+  ]
+}
